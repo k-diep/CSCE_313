@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "condition_variable": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "thread": "cpp"
+    }
+}
